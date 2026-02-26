@@ -1,4 +1,4 @@
-from main import soma
+from projeto_teste.main import soma
 
 
 def test_soma():
